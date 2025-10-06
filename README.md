@@ -14,13 +14,13 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
    (Nobody is sure yet.)
 
 3. The scientist shouted something very important but nobody wrote it down.  
-
+   ![scientist](img/scientist.png)
 4. After that, everyone got lost (or maybe teleported?) and somehow there was a **treasure chest**…  
    ![treasure chest](img2.png)
 
 5. Someone found a map, but it had no directions.  
    (TODO: add an image of the map?)  
-
+   ![map](img/map.png)
 6. “Let’s go to space!” shouted the pirate (although there was no pirate before this).  
 
 7. A rocket blasted off, but at the same time the **time machine** broke down.  
