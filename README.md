@@ -22,7 +22,7 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
    (TODO: add an image of the map?)  
    ![map](img/map.png)
 6. “Let’s go to space!” shouted the pirate (although there was no pirate before this).  
-   
+   ![pirate](img/pirate.png)
 7. A rocket blasted off, but at the same time the **time machine** broke down.  
    ![rocket](img/rocket.png)
 8. The cat was supposed to talk here, but the line is missing.  
