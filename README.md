@@ -33,4 +33,5 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 9. In the forest, the detective discovered… something.  
    (What did they find?)  
    ![detective](img/detective.png)
-10. The ending… well, we don’t really have one. Please fix this.
+10. The ending… ,Then we met a wizard who could conjure up aliens.
+   ![wizard](img/wizard.png)![alien](img/alien.png)
