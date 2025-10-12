@@ -1,6 +1,9 @@
 นาย กิจชัย มุขศรี 6809650176
+
 นาย ธนกร นาคอินทร์แจ้ง 6809650234
+
 นาย ภูมิ ภิญญาพงษ์ 6809650309
+
 # Team Story Challenge
 
 This is the starting draft of your team’s story.  
